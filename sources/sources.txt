@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/5141960/get-the-current-time-in-c/5142028
+
+https://stackoverflow.com/questions/3756323/how-to-get-the-current-time-in-milliseconds-from-c-in-linux
+
+https://stackoverflow.com/questions/13826240/strcmp-not-working
+
+
+http://www.scorehero.com/forum/viewtopic.php?t=73070 // About how often a HOPO appears
+
+
+https://forums.libsdl.org/viewtopic.php?p=4853 // How to read .ogg files instead of just .wav files
+
+http://s15148.pcdn.co/wp-content/uploads/2011/04/bigstock_Notebook_Paper_3453328.jpg
